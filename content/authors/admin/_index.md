@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Prajval Kumar Murali
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,29 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Robotics Engineer 
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Italian Institute of Technology
+  url: "https://iit.it/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include perception towards human-robot collaboration.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Human-robot collaboration
+- Perception
+- Control
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: M.S in Robotics Engineering
+    institution: University of Genoa and Ecole Centrale de Nantes
+    year: 2018
+  - course: B.Tech in Instrumentation and Control Engineering
+    institution: National Institute of Technology, Tiruchirappalli, India
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,13 +44,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/prajval_10
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=8W7cVy4AAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/prajval10
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,7 +58,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "prajval10@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -70,6 +67,18 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Prajval was born in Bangalore, India on 16 February, 1994. He received his Bachelors of Technology in 2016 in Instrumentation and Control Engineering from National Institute of Technology, Tiruchirappalli, India, one of the top engineering schools in India. He received the Joint Masters in Advanced Robotics Engineering degree (EMARO+) from Ecole Centrale de Nantes, France and University of Genova, Italy in 2018. He was awarded the Erasmus-Mundus Consortium scholarship for the master's studies.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Since 2018, he is working as a research fellow at the Italian Institute of Technology in Genova in the Dynamics Interactions Control team. He is part of the IIT-Danieli Automation joint laboratory working on perception and safe human-robot collaboration for steel manufacturing environments.
+
+Apart from robotics, Prajval loves to travel and backpack across Europe. He is also into photography, football and cricket.
+
+---
+
+## What's new:
+
+{{% alert note %}}
+Prajval has been accepted to an industrial Ph.D. program at BMW Group, Germany and University of Glasgow, Scotland and will begin his Ph.D. from June 2020.
+{{% /alert %}}
+
+---
