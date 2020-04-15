@@ -78,7 +78,7 @@ Apart from robotics, Prajval loves to travel and backpack across Europe. He is a
 ## What's new:
 
 {{% alert note %}}
-Prajval has been accepted to an industrial Ph.D. program at BMW Group, Germany and University of Glasgow, Scotland and will begin his Ph.D. from June 2020.
+This website is a work in progress. Please check back for more details.
 {{% /alert %}}
 
 ---
